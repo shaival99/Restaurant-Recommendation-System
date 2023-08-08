@@ -15,9 +15,6 @@ The Restaurant Recommendation System leverages Yelp's extensive data to provide 
 
 [You can view this diagram in a new tab.](https://showme.redstarplugin.com/d/p1FLYIEE)
 
-## Authors
-- Vaidehi Parikh (parikh.v@northeastern.edu)
-- Shaival Shah (shah.shaivals@northeastern.edu)
 
 ## Features
 - *Location-Based Recommendations*: Utilizes K-means clustering to offer top-rated restaurants near the user's location.
